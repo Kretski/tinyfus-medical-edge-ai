@@ -50,7 +50,7 @@ The core algorithm is **not publicly available** due to pending patent protectio
 4. **Pilot integration** → Co-development for your wearable platform
 
 ## 📧 Contact
-82DE3DB6E22D5B5C56F7D862BE2FC25EF40B31CE50C1909EC23F7B73EBEF6C63
+ 82DE3DB6E22D5B5C56F7D862BE2FC25EF40B31CE50C1909EC23F7B73EBEF6C63
 **Kretski Lab**  
 📧 kretski1@gmail.com  
 📍 Bulgaria  
@@ -59,3 +59,4 @@ The core algorithm is **not publicly available** due to pending patent protectio
 
 
 *© 2026 Kretski Lab. All rights reserved.*
+
