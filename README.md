@@ -1,6 +1,6 @@
-# TinyFUS Medical Edge AI
 
-[![Medical-Grade Validation](VALIDATION_REPORT.png)](VALIDATION_REPORT.png)
+
+
 # TinyFUS Medical Edge AI
 
 [![Medical Grade Validation](VALIDATION_REPORT.png)](VALIDATION_REPORT.png)
@@ -70,3 +70,4 @@ The core algorithm is **not publicly available** due to pending patent protectio
 ---
 
 *© 2026 Kretski Lab. All rights reserved.*
+
